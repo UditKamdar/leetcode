@@ -27,11 +27,10 @@ class Solution {
         while(!q.isEmpty()){
             TreeNode curr = q.poll();
             if(curr == null){
+                ans.add(segment);              
                 if(q.isEmpty()){
-                    ans.add(segment);
                     break;
-                } else{
-                    ans.add(segment);
+                } else{      
                     segment = new ArrayList<>();
                     q.offer(null);
                 }
