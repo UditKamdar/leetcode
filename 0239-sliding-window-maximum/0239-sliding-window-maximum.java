@@ -4,7 +4,9 @@ class Solution {
 
         int[] ans = new int[nums.length - k + 1];
         int index = 0;
-        Deque<Integer> dq = new LinkedList<>();
+        // we can also use new LinkedList<>(), but ArrayDeque is faster than linkedlist. Both implement the Deque interface.
+        Deque<Integer> dq = new ArrayDeque<>(); 
+
         for(int i =0; i < nums.length; i++){
            if(!dq.isEmpty() && dq.peek() == i - k){     // when we write peek() it means peekFirst()
                 dq.poll();                              // when we write poll() it means pollFirst()
