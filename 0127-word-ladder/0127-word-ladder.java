@@ -9,10 +9,10 @@ class Pair {
 }
 class Solution {
     public int ladderLength(String beginWord, String endWord, List<String> wordList) {
-        Set<String> set = new HashSet<>();
-        for(String s: wordList){
-            set.add(s);
-        }
+        Set<String> set = new HashSet<>(wordList);
+        // for(String s: wordList){
+        //     set.add(s);
+        // }
 
         Queue<Pair> q = new LinkedList<>();
         q.offer(new Pair(beginWord,1));
