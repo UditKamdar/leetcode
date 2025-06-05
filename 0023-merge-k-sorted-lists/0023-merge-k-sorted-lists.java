@@ -13,22 +13,23 @@ class Solution {
        if(lists == null || lists.length == 0) return null;
        // -- > Using Heap ( PriorityQueue)
 
-       PriorityQueue<ListNode> minHeap = new PriorityQueue<>((a,b) -> a.val - b.val);
-       for(ListNode head: lists){
+       PriorityQueue<ListNode> pq = new PriorityQueue<>((a,b) -> a.val - b.val);
+        for(ListNode head: lists){
             if(head!=null){
-            minHeap.add(head);
+                pq.add(head);
             }
         }
 
         ListNode dummy = new ListNode(0);
         ListNode curr = dummy;
-        while(!minHeap.isEmpty()){
-            ListNode node = minHeap.poll();
+
+        while(!pq.isEmpty()){
+            ListNode node = pq.poll();
             curr.next = node;
             curr = curr.next;
 
-            if(node.next!= null){
-                minHeap.add(node.next);
+            if(node.next != null){
+                pq.add(node.next);
             }
         }
 
