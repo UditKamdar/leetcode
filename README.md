@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/UditKamdar/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0238-product-of-array-except-self](https://github.com/UditKamdar/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/UditKamdar/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0289-game-of-life](https://github.com/UditKamdar/leetcode/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/UditKamdar/leetcode/tree/master/0300-longest-increasing-subsequence) |
 ## Two Pointers
 |  |
@@ -136,4 +137,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/UditKamdar/leetcode/tree/master/0155-min-stack) |
+## Matrix
+|  |
+| ------- |
+| [0289-game-of-life](https://github.com/UditKamdar/leetcode/tree/master/0289-game-of-life) |
+## Simulation
+|  |
+| ------- |
+| [0289-game-of-life](https://github.com/UditKamdar/leetcode/tree/master/0289-game-of-life) |
 <!---LeetCode Topics End-->
