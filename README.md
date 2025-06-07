@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/UditKamdar/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0289-game-of-life](https://github.com/UditKamdar/leetcode/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/UditKamdar/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/UditKamdar/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/UditKamdar/leetcode/tree/master/0015-3sum) |
+| [0347-top-k-frequent-elements](https://github.com/UditKamdar/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/UditKamdar/leetcode/tree/master/0778-reorganize-string) |
 ## Linked List
 |  |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/UditKamdar/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/UditKamdar/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0347-top-k-frequent-elements](https://github.com/UditKamdar/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/UditKamdar/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/UditKamdar/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/UditKamdar/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/UditKamdar/leetcode/tree/master/0778-reorganize-string) |
 ## Monotonic Queue
 |  |
@@ -109,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/UditKamdar/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/UditKamdar/leetcode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/UditKamdar/leetcode/tree/master/0127-word-ladder) |
+| [0347-top-k-frequent-elements](https://github.com/UditKamdar/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/UditKamdar/leetcode/tree/master/0778-reorganize-string) |
 ## String
 |  |
@@ -124,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/UditKamdar/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/UditKamdar/leetcode/tree/master/0778-reorganize-string) |
 ## Merge Sort
 |  |
@@ -145,4 +151,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/UditKamdar/leetcode/tree/master/0289-game-of-life) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/UditKamdar/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/UditKamdar/leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
