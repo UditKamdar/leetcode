@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/UditKamdar/leetcode/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/UditKamdar/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/UditKamdar/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0630-course-schedule-iii](https://github.com/UditKamdar/leetcode/tree/master/0630-course-schedule-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/UditKamdar/leetcode/tree/master/0015-3sum) |
 | [0347-top-k-frequent-elements](https://github.com/UditKamdar/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0630-course-schedule-iii](https://github.com/UditKamdar/leetcode/tree/master/0630-course-schedule-iii) |
 | [0778-reorganize-string](https://github.com/UditKamdar/leetcode/tree/master/0778-reorganize-string) |
 ## Linked List
 |  |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/UditKamdar/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/UditKamdar/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/UditKamdar/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0630-course-schedule-iii](https://github.com/UditKamdar/leetcode/tree/master/0630-course-schedule-iii) |
 | [0778-reorganize-string](https://github.com/UditKamdar/leetcode/tree/master/0778-reorganize-string) |
 ## Monotonic Queue
 |  |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/UditKamdar/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0630-course-schedule-iii](https://github.com/UditKamdar/leetcode/tree/master/0630-course-schedule-iii) |
 | [0778-reorganize-string](https://github.com/UditKamdar/leetcode/tree/master/0778-reorganize-string) |
 ## Hash Table
 |  |
