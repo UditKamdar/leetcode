@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/UditKamdar/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0092-reverse-linked-list-ii](https://github.com/UditKamdar/leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/UditKamdar/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/UditKamdar/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Divide and Conquer
