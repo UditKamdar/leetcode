@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/UditKamdar/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/UditKamdar/leetcode/tree/master/0778-reorganize-string) |
 | [1006-vowel-spellchecker](https://github.com/UditKamdar/leetcode/tree/master/1006-vowel-spellchecker) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/UditKamdar/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/UditKamdar/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/UditKamdar/leetcode/tree/master/0127-word-ladder) |
 | [0778-reorganize-string](https://github.com/UditKamdar/leetcode/tree/master/0778-reorganize-string) |
 | [1006-vowel-spellchecker](https://github.com/UditKamdar/leetcode/tree/master/1006-vowel-spellchecker) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/UditKamdar/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/UditKamdar/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Prefix Sum
 |  |
