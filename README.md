@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/UditKamdar/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0630-course-schedule-iii](https://github.com/UditKamdar/leetcode/tree/master/0630-course-schedule-iii) |
 | [1006-vowel-spellchecker](https://github.com/UditKamdar/leetcode/tree/master/1006-vowel-spellchecker) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/UditKamdar/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/UditKamdar/leetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/UditKamdar/leetcode/tree/master/0155-min-stack) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/UditKamdar/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Design
 |  |
 | ------- |
@@ -199,4 +201,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/UditKamdar/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/UditKamdar/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+## Number Theory
+|  |
+| ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/UditKamdar/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 <!---LeetCode Topics End-->
