@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/UditKamdar/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0630-course-schedule-iii](https://github.com/UditKamdar/leetcode/tree/master/0630-course-schedule-iii) |
 | [0778-reorganize-string](https://github.com/UditKamdar/leetcode/tree/master/0778-reorganize-string) |
+| [3678-design-task-manager](https://github.com/UditKamdar/leetcode/tree/master/3678-design-task-manager) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/UditKamdar/leetcode/tree/master/0778-reorganize-string) |
 | [1006-vowel-spellchecker](https://github.com/UditKamdar/leetcode/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/UditKamdar/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [3678-design-task-manager](https://github.com/UditKamdar/leetcode/tree/master/3678-design-task-manager) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/UditKamdar/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/UditKamdar/leetcode/tree/master/0155-min-stack) |
+| [3678-design-task-manager](https://github.com/UditKamdar/leetcode/tree/master/3678-design-task-manager) |
 ## Matrix
 |  |
 | ------- |
@@ -206,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/UditKamdar/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+## Ordered Set
+|  |
+| ------- |
+| [3678-design-task-manager](https://github.com/UditKamdar/leetcode/tree/master/3678-design-task-manager) |
 <!---LeetCode Topics End-->
