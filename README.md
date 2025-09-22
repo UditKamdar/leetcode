@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/UditKamdar/leetcode/tree/master/1006-vowel-spellchecker) |
 | [2023-design-movie-rental-system](https://github.com/UditKamdar/leetcode/tree/master/2023-design-movie-rental-system) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/UditKamdar/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/UditKamdar/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3827-implement-router](https://github.com/UditKamdar/leetcode/tree/master/3827-implement-router) |
 ## Two Pointers
 |  |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/UditKamdar/leetcode/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/UditKamdar/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2023-design-movie-rental-system](https://github.com/UditKamdar/leetcode/tree/master/2023-design-movie-rental-system) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/UditKamdar/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3678-design-task-manager](https://github.com/UditKamdar/leetcode/tree/master/3678-design-task-manager) |
 | [3827-implement-router](https://github.com/UditKamdar/leetcode/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/UditKamdar/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/UditKamdar/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/UditKamdar/leetcode/tree/master/0778-reorganize-string) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/UditKamdar/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/UditKamdar/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Merge Sort
 |  |
