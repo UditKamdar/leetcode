@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0289-game-of-life](https://github.com/UditKamdar/leetcode/tree/master/0289-game-of-life) |
 | [1642-water-bottles](https://github.com/UditKamdar/leetcode/tree/master/1642-water-bottles) |
+| [3336-water-bottles-ii](https://github.com/UditKamdar/leetcode/tree/master/3336-water-bottles-ii) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/UditKamdar/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [1642-water-bottles](https://github.com/UditKamdar/leetcode/tree/master/1642-water-bottles) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/UditKamdar/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [3336-water-bottles-ii](https://github.com/UditKamdar/leetcode/tree/master/3336-water-bottles-ii) |
 ## Number Theory
 |  |
 | ------- |
