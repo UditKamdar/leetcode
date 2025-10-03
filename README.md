@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/UditKamdar/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0126-word-ladder-ii](https://github.com/UditKamdar/leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/UditKamdar/leetcode/tree/master/0127-word-ladder) |
+| [0407-trapping-rain-water-ii](https://github.com/UditKamdar/leetcode/tree/master/0407-trapping-rain-water-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/UditKamdar/leetcode/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/UditKamdar/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/UditKamdar/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0407-trapping-rain-water-ii](https://github.com/UditKamdar/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0630-course-schedule-iii](https://github.com/UditKamdar/leetcode/tree/master/0630-course-schedule-iii) |
 | [1006-vowel-spellchecker](https://github.com/UditKamdar/leetcode/tree/master/1006-vowel-spellchecker) |
 | [2023-design-movie-rental-system](https://github.com/UditKamdar/leetcode/tree/master/2023-design-movie-rental-system) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/UditKamdar/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/UditKamdar/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/UditKamdar/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0407-trapping-rain-water-ii](https://github.com/UditKamdar/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0630-course-schedule-iii](https://github.com/UditKamdar/leetcode/tree/master/0630-course-schedule-iii) |
 | [0778-reorganize-string](https://github.com/UditKamdar/leetcode/tree/master/0778-reorganize-string) |
 | [2023-design-movie-rental-system](https://github.com/UditKamdar/leetcode/tree/master/2023-design-movie-rental-system) |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/UditKamdar/leetcode/tree/master/0079-word-search) |
 | [0289-game-of-life](https://github.com/UditKamdar/leetcode/tree/master/0289-game-of-life) |
+| [0407-trapping-rain-water-ii](https://github.com/UditKamdar/leetcode/tree/master/0407-trapping-rain-water-ii) |
 ## Simulation
 |  |
 | ------- |
