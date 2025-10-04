@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/UditKamdar/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/UditKamdar/leetcode/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/UditKamdar/leetcode/tree/master/0039-combination-sum) |
 | [0057-insert-interval](https://github.com/UditKamdar/leetcode/tree/master/0057-insert-interval) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/UditKamdar/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/UditKamdar/leetcode/tree/master/0015-3sum) |
 | [0165-compare-version-numbers](https://github.com/UditKamdar/leetcode/tree/master/0165-compare-version-numbers) |
 ## Sorting
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/UditKamdar/leetcode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/UditKamdar/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0630-course-schedule-iii](https://github.com/UditKamdar/leetcode/tree/master/0630-course-schedule-iii) |
 | [0778-reorganize-string](https://github.com/UditKamdar/leetcode/tree/master/0778-reorganize-string) |
