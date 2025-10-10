@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2023-design-movie-rental-system](https://github.com/UditKamdar/leetcode/tree/master/2023-design-movie-rental-system) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/UditKamdar/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/UditKamdar/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/UditKamdar/leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3827-implement-router](https://github.com/UditKamdar/leetcode/tree/master/3827-implement-router) |
 ## Two Pointers
 |  |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/UditKamdar/leetcode/tree/master/0238-product-of-array-except-self) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/UditKamdar/leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Counting
 |  |
 | ------- |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/UditKamdar/leetcode/tree/master/0289-game-of-life) |
 | [1642-water-bottles](https://github.com/UditKamdar/leetcode/tree/master/1642-water-bottles) |
 | [3336-water-bottles-ii](https://github.com/UditKamdar/leetcode/tree/master/3336-water-bottles-ii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/UditKamdar/leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Bucket Sort
 |  |
 | ------- |
