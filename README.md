@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/UditKamdar/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0630-course-schedule-iii](https://github.com/UditKamdar/leetcode/tree/master/0630-course-schedule-iii) |
 | [1006-vowel-spellchecker](https://github.com/UditKamdar/leetcode/tree/master/1006-vowel-spellchecker) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/UditKamdar/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/UditKamdar/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2023-design-movie-rental-system](https://github.com/UditKamdar/leetcode/tree/master/2023-design-movie-rental-system) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/UditKamdar/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/UditKamdar/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0630-course-schedule-iii](https://github.com/UditKamdar/leetcode/tree/master/0630-course-schedule-iii) |
 | [0778-reorganize-string](https://github.com/UditKamdar/leetcode/tree/master/0778-reorganize-string) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/UditKamdar/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/UditKamdar/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Linked List
 |  |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/UditKamdar/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0630-course-schedule-iii](https://github.com/UditKamdar/leetcode/tree/master/0630-course-schedule-iii) |
 | [0778-reorganize-string](https://github.com/UditKamdar/leetcode/tree/master/0778-reorganize-string) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/UditKamdar/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 ## Hash Table
 |  |
 | ------- |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/UditKamdar/leetcode/tree/master/0079-word-search) |
 | [0289-game-of-life](https://github.com/UditKamdar/leetcode/tree/master/0289-game-of-life) |
 | [0407-trapping-rain-water-ii](https://github.com/UditKamdar/leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/UditKamdar/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/UditKamdar/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Simulation
 |  |
