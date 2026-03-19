@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2023-design-movie-rental-system](https://github.com/UditKamdar/leetcode/tree/master/2023-design-movie-rental-system) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/UditKamdar/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/UditKamdar/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/UditKamdar/leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/UditKamdar/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/UditKamdar/leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3827-implement-router](https://github.com/UditKamdar/leetcode/tree/master/3827-implement-router) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/UditKamdar/leetcode/tree/master/0238-product-of-array-except-self) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/UditKamdar/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/UditKamdar/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/UditKamdar/leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/UditKamdar/leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Counting
 |  |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/UditKamdar/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/UditKamdar/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/UditKamdar/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/UditKamdar/leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Simulation
 |  |
 | ------- |
