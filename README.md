@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/UditKamdar/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/UditKamdar/leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/UditKamdar/leetcode/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/UditKamdar/leetcode/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/UditKamdar/leetcode/tree/master/0113-path-sum-ii) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/UditKamdar/leetcode/tree/master/0022-generate-parentheses) |
 | [0096-unique-binary-search-trees](https://github.com/UditKamdar/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/UditKamdar/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/UditKamdar/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/UditKamdar/leetcode/tree/master/0006-zigzag-conversion) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/UditKamdar/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/UditKamdar/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/UditKamdar/leetcode/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/UditKamdar/leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/UditKamdar/leetcode/tree/master/0079-word-search) |
 | [0126-word-ladder-ii](https://github.com/UditKamdar/leetcode/tree/master/0126-word-ladder-ii) |
