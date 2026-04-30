@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/UditKamdar/leetcode/tree/master/0029-divide-two-integers) |
 | [0096-unique-binary-search-trees](https://github.com/UditKamdar/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [1642-water-bottles](https://github.com/UditKamdar/leetcode/tree/master/1642-water-bottles) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/UditKamdar/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -272,4 +273,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2023-design-movie-rental-system](https://github.com/UditKamdar/leetcode/tree/master/2023-design-movie-rental-system) |
 | [3678-design-task-manager](https://github.com/UditKamdar/leetcode/tree/master/3678-design-task-manager) |
 | [3827-implement-router](https://github.com/UditKamdar/leetcode/tree/master/3827-implement-router) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/UditKamdar/leetcode/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
