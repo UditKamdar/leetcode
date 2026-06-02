@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/UditKamdar/leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/UditKamdar/leetcode/tree/master/0031-next-permutation) |
 | [0165-compare-version-numbers](https://github.com/UditKamdar/leetcode/tree/master/0165-compare-version-numbers) |
+| [0234-palindrome-linked-list](https://github.com/UditKamdar/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/UditKamdar/leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/UditKamdar/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/UditKamdar/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0234-palindrome-linked-list](https://github.com/UditKamdar/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/UditKamdar/leetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/UditKamdar/leetcode/tree/master/0155-min-stack) |
+| [0234-palindrome-linked-list](https://github.com/UditKamdar/leetcode/tree/master/0234-palindrome-linked-list) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/UditKamdar/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Design
 |  |
@@ -294,4 +297,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/UditKamdar/leetcode/tree/master/0062-unique-paths) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/UditKamdar/leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
