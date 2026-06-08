@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/UditKamdar/leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/UditKamdar/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/UditKamdar/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/UditKamdar/leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/UditKamdar/leetcode/tree/master/0039-combination-sum) |
 | [0057-insert-interval](https://github.com/UditKamdar/leetcode/tree/master/0057-insert-interval) |
 | [0079-word-search](https://github.com/UditKamdar/leetcode/tree/master/0079-word-search) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/UditKamdar/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/UditKamdar/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/UditKamdar/leetcode/tree/master/0035-search-insert-position) |
 | [0096-unique-binary-search-trees](https://github.com/UditKamdar/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/UditKamdar/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0300-longest-increasing-subsequence](https://github.com/UditKamdar/leetcode/tree/master/0300-longest-increasing-subsequence) |
